@@ -1,4 +1,4 @@
-# TaskFlow_v2-Task Manager
+# Task Manager
 
 A modern, responsive task management application built with Next.js, Tailwind CSS, and TypeScript. This project implements a drag-and-drop Kanban board with features inspired by Trello.
 
